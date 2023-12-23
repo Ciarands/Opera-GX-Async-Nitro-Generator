@@ -20,7 +20,9 @@ python3 main.py
 ```
 
 # Video
-https://github.com/Ciarands/Opera-GX-Async-Nitro-Generator/assets/74070993/7f85c717-6a29-428d-acd1-87462735620e
+
+https://github.com/Ciarands/Opera-GX-Async-Nitro-Generator/assets/74070993/a3628fc0-f565-4686-9a8e-962081fbc8e8
+
 
 # Note
 This is purely intended as proof of concept, the distribution of program is intended for educational purposes ONLY, I am not responsible for any negative consequences that may come from using this.
