@@ -1,5 +1,5 @@
 # Opera-GX-Async-Nitro-Generator
-Opera GX has a [promotion](https://support.discord.com/hc/en-us/articles/19822382831767-1-Month-Discord-Nitro-for-Opera-GX-Users-2023-Promo-FAQ) with discord, the distribution system is very vulnerable with no real protections or reasonable ratelimits, this allows you to generate unlimited copies of discord nitro for this promotion.
+Opera GX had a [promotion](https://support.discord.com/hc/en-us/articles/19822382831767-1-Month-Discord-Nitro-for-Opera-GX-Users-2023-Promo-FAQ) with discord, the distribution system was very vulnerable with no real protections or reasonable ratelimits, this allowed you to generate unlimited copies of discord nitro for this promotion.
 
 # Installation
 Download the repo
